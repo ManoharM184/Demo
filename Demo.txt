@@ -1,3 +1,6 @@
 Hello
 How are you 
 This is my first version
+
+I am learning GitHub
+and git
